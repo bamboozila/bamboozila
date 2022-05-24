@@ -1,12 +1,12 @@
 # Who am I?
-François, 29 years old.
-Developper since 2017. 
+François, 30 years old.
+Developer since 2017. 
 
 
 # Testing:
   * Unit tests: I have been working with Jest with a eslint config enforcing good practices.
 
-  * Functional tests: Testing Library! I just love it, it ensures the developpers maintain accessibility, it's fast and solid.
+  * Functional tests: Testing Library! I just love it, it ensures the developers maintain accessibility, it's fast and solid.
   I Like to write custom functions to easy the tests of repetitive tasks with components.
 
   * E2E:
